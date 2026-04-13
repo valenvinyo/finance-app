@@ -1,16 +1,15 @@
 {
   "files": {
-    "main.css": "/finance-app/static/css/main.f855e6bc.css",
-    "main.js": "/finance-app/static/js/main.b376e7d7.js",
+    "main.css": "/finance-app/static/css/main.28871273.css",
+    "main.js": "/finance-app/static/js/main.0b3ac16a.js",
     "static/js/453.b14109fd.chunk.js": "/finance-app/static/js/453.b14109fd.chunk.js",
-    "static/media/logo.svg": "/finance-app/static/media/logo.6ce24c58023cc2f8fd88fe9d219db6c6.svg",
     "index.html": "/finance-app/index.html",
-    "main.f855e6bc.css.map": "/finance-app/static/css/main.f855e6bc.css.map",
-    "main.b376e7d7.js.map": "/finance-app/static/js/main.b376e7d7.js.map",
+    "main.28871273.css.map": "/finance-app/static/css/main.28871273.css.map",
+    "main.0b3ac16a.js.map": "/finance-app/static/js/main.0b3ac16a.js.map",
     "453.b14109fd.chunk.js.map": "/finance-app/static/js/453.b14109fd.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.f855e6bc.css",
-    "static/js/main.b376e7d7.js"
+    "static/css/main.28871273.css",
+    "static/js/main.0b3ac16a.js"
   ]
 }
